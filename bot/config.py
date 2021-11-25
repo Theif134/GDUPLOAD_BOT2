@@ -1,5 +1,5 @@
 class config:
-    BOT_TOKEN = ""
+    BOT_TOKEN = "2112292938:AAF0rg0xfTct-QJsKeMdX7QhT5UtDGSrh2s"
     APP_ID = "13751988"
     API_HASH = "8a885cc6e1ac3b96afdcfb976fd02118"
     DATABASE_URL = ""
